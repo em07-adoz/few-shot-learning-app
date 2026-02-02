@@ -57,8 +57,7 @@ pip install streamlit google-generativeai
 ```bash
 streamlit run app.py
 ```
-
-Open the local URL displayed in your browser (usually http://localhost:8501).
+Then open the local URL displayed in your browser (usually http://localhost:8501).
 
 ## How Few-Shot Learning Is Implemented
 
