@@ -44,7 +44,7 @@ This app requires a Gemini API key from Google AI Studio.
 ## Run Locally
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/your-username/few-shot-learning-app.git
 cd your-repo-name
 ```
 
@@ -77,9 +77,8 @@ This prompt is sent to the Gemini model using the generate_content() method. The
 └── .gitignore    # Excludes secrets and cache files
 ```
 
-## 🙌 Acknowledgments
+## Acknowledgments
 This tool was built as part of the MLC Africa CS197 study group.
-
 
 
 ## License
